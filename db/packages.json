@@ -1,0 +1,102 @@
+[{
+        "packageId": "1",
+        "supplierId": "1",
+        "buyerId": "1",
+        "origin": "London",
+        "destination": "Reading",
+        "distance": 300,
+        "content" : {
+            "typeId": "1",
+            "quantity": "50"
+        },
+        "shipmentTypeCode": "1",
+        "DeliveryStatus": 1
+    },
+    {
+        "packageId": "2",
+        "supplierId": "2",
+        "buyerId": "2",
+        "origin": "New york",
+        "destination": "Califonia",
+         "distance": 400,
+        "content" : {
+            "typeId": "2",
+            "quantity": "10"
+        },
+        "shipmentTypeCode": "2",
+        "DeliveryStatus": 0
+    },
+    {
+        "packageId": "3",
+        "supplierId": "1",
+        "buyerId": "2",
+        "origin": "Canada",
+        "destination": "Poland",
+         "distance": 500,
+        "content" : {
+            "typeId": "3",
+            "quantity": "20"
+        },
+        "shipmentTypeCode": "1",
+        "DeliveryStatus": 1
+
+    },
+    {
+        "packageId": "4",
+        "supplierId": "2",
+        "buyerId": "1",
+        "origin": "Spain",
+        "destination": "Turkey",
+         "distance": 600,
+        "content" : {
+            "typeId": "4",
+            "quantity": "30"
+        },
+        "shipmentTypeCode": "2",
+        "DeliveryStatus": 0
+    },
+    {
+        "packageId": "5",
+        "supplierId": "3",
+        "buyerId": "3",
+        "origin": "Lagos",
+        "destination": "Benin",
+         "distance": 700,
+        "content" : {
+            "typeId": "5",
+            "quantity": "40"
+        },
+        "shipmentTypeCode": "2",
+        "DeliveryStatus": 999
+    },
+    {
+        "packageId": "6",
+        "supplierId": "2",
+        "buyerId": "2",
+        "origin": "Brazil",
+        "destination": "France",
+         "distance": 800,
+        "content" : {
+            "typeId": "10",
+            "quantity": "80"
+        },
+        "shipmentTypeCode": "1",
+        "DeliveryStatus": 1
+    },
+    {
+        "packageId": "7",
+        "supplierId": "1",
+        "buyerId": "1",
+        "origin": "Portugal",
+        "destination": "Germany",
+         "distance": 900,
+        "content" : {
+            "typeId": "8",
+            "quantity": "100"
+        },
+        "shipmentTypeCode": "2",
+        "DeliveryStatus": 0
+    }
+]
+
+

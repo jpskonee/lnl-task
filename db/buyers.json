@@ -1,0 +1,29 @@
+[
+    {
+        "id":  "1",
+        "name": "Buyer 1",
+        "location" : "London",
+        "email": "buyer1@yahoo.com",
+        "phone": "123456",
+        "transctionsID": [],
+        "activeTransctions": []
+    },
+    {
+        "id":  "2",
+        "name": "Buyer 2",
+        "location" : "Spain",
+         "email": "buyer2@yahoo.com",
+        "phone": "56789",
+         "transctionsID": [],
+        "activeTransctions": []
+    },
+    {
+        "id":  "3",
+        "name": "Buyer 3",
+        "location" : "New York",
+         "email": "buyer3@yahoo.com",
+        "phone": "678910",
+         "transctionsID": [],
+        "activeTransctions": []
+    }
+]

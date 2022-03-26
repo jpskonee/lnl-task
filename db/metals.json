@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "metal": "Copper"
+    },
+    {
+        "id": "2",
+        "metal": "Iron"
+    },
+    {
+        "id": "3",
+        "metal": "Gold"
+    },
+    {
+        "id": "4",
+        "metal": "Brass"
+    },
+    {
+        "id": "5",
+        "metal": "Zinc"
+    },
+    {
+        "id": "6",
+        "metal": "Steel"
+    },
+    {
+        "id": "7",
+        "metal": "Bronze"
+    },
+    {
+        "id": "8",
+        "metal": "Lead"
+    },
+    {
+        "id": "9",
+        "metal": "Silver"
+    },
+    {
+        "id": "10",
+        "metal": "Aluminium"
+    }
+]

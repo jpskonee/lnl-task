@@ -1,0 +1,34 @@
+[
+    {
+        "id":  "1",
+        "name": "Emmanuel Agho",
+        "location" : "London",
+        "metals": ["1","2","4","5", "10"],
+        "transctionsID": ["1", "3", "7"],
+        "activeTransctions": ["1", "3"]
+    },
+    {
+        "id":  "2",
+        "name": "John Doe",
+        "location" : "Spain",
+        "metals": ["3","6", "7", "5", "10"],
+        "transctionsID": ["2", "4", "6"],
+        "activeTransctions": ["6"]
+    },
+    {
+        "id":  "3",
+        "name": "Sandra James",
+        "location" : "New York",
+        "metals": ["8", "9", "10", "2", "1"],
+        "transctionsID": ["5"],
+        "activeTransctions": ["5"]
+    },
+    {
+        "id":  "4",
+        "name": "No Supplier",
+        "location" : "New York",
+        "metals": ["8", "9", "10", "2", "1"],
+        "transctionsID": [],
+        "activeTransctions": []
+    }
+]
